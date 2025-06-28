@@ -10,3 +10,10 @@ describe("", () => {
     });
   });
 });
+numPointsScored("Alan Anderson");
+shoeSize("Jeff Adrien");
+teamColors("Charlotte Hornets");
+teamNames();
+playerNumbers("Brooklyn Nets");
+playerStats("Mason Plumlee");
+bigShoeRebounds();
